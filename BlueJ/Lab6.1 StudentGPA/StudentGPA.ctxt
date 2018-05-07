@@ -1,8 +1,10 @@
 #BlueJ class context
-comment0.params=myName\ myID
-comment0.target=StudentGPA(java.lang.String,\ java.lang.String)
-comment1.params=grade
-comment1.target=void\ addGrade(int)
-comment2.params=
-comment2.target=double\ getGPA()
-numComments=3
+comment0.target=StudentGPA
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentGPA\ here.\r\n\ \r\n\ @author\ (Jad)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=myName\ myID
+comment1.target=StudentGPA(java.lang.String,\ java.lang.String)
+comment2.params=grade
+comment2.target=void\ addGrade(int)
+comment3.params=
+comment3.target=double\ getGPA()
+numComments=4

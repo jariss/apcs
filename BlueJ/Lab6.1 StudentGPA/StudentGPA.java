@@ -2,7 +2,7 @@
 /**
  * Write a description of class StudentGPA here.
  * 
- * @author (your name) 
+ * @author (Jad) 
  * @version (a version number or a date)
  */
 public class StudentGPA
