@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pictures
+comment1.params=rows\ col
+comment1.target=void\ printTable(int,\ int)
+comment2.params=lines
+comment2.target=void\ pyramid(int)
+numComments=3

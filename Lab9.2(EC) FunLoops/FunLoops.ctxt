@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=boolean\ perfSquare(double)
+comment1.params=a
+comment1.target=boolean\ sum(int)
+comment2.params=numSquares
+comment2.target=void\ magicSquares(int)
+comment3.params=n
+comment3.target=int\ reverse(int)
+comment4.params=x\ y
+comment4.target=int\ lcm(int,\ int)
+numComments=5

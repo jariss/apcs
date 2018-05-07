@@ -1,0 +1,8 @@
+
+
+0		8 		1		0		2
+
+i = 0 -> i = -1 -> i = 0 -> i = 1 -> i = 0 -> i = 1
+logLength = 4
+list[b] = list[1] (8) ->list[2] (1) -> list[3] (0) -> list[4] (2)
+nonZeroSize = 1 -> 2 -> 3 ->

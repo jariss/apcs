@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Life
+comment1.params=name1
+comment1.target=Life(java.lang.String)
+comment2.params=
+comment2.target=void\ printGrid()
+comment3.params=
+comment3.target=int\ alive()
+comment4.params=
+comment4.target=int\ rowAlive()
+comment5.params=
+comment5.target=int\ colAlive()
+comment6.params=r\ c
+comment6.target=int\ countNeighborsAlive(int,\ int)
+comment7.params=r\ c
+comment7.target=int\ checkAliveOrDead(int,\ int)
+comment8.params=
+comment8.target=void\ newGrid()
+numComments=9

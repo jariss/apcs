@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=phrase
+comment0.target=boolean\ isPal(java.lang.String)
+comment1.params=phrase
+comment1.target=java.lang.String\ filter(java.lang.String)
+comment2.params=phrase
+comment2.target=java.lang.String\ reverseString(java.lang.String)
+numComments=3

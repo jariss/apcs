@@ -1,0 +1,29 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Users\JAD\Downloads\apcslib.jar;C:\Users\JAD\Downloads\chndocs.jar;C:\Users\JAD\Downloads\chnutil.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;F:\BlueJ\Lab 29.1 OldMacDonald
+-d
+F:\BlueJ\Lab 29.1 OldMacDonald\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+F:\BlueJ\Lab 29.1 OldMacDonald\Farm.java
+<---- end of javadoc command ---->
+Loading source file F:\BlueJ\Lab 29.1 OldMacDonald\Farm.java...
+F:\BlueJ\Lab 29.1 OldMacDonald\Farm.java:8: error: <identifier> expected
+        a[1] = new ("cheep","cluck");
+                  ^
+1 error

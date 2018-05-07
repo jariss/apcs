@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fun
+comment1.params=fahrenheit
+comment1.target=double\ fToC(double)
+comment2.params=celsius
+comment2.target=double\ cToF(double)
+comment3.params=radius
+comment3.target=double\ volume(double)
+comment4.params=a\ b
+comment4.target=double\ hypotenuse(double,\ double)
+numComments=5
